@@ -10,3 +10,4 @@ Mirrored from https://documentation.meraki.com/SASE_and_SD-WAN/MX/Integrations/S
 - [Policy](04_policy.md)
 - [Design Best Practices](05_design_best_practices.md)
 - [Secure Connect to Secure Access Migration Guide](06_secure_connect_migration_guide.md)
+- [Comparative Deployment Design (A/B/C)](07_comparative_design.md)
